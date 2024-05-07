@@ -1,2 +1,2 @@
 # deitel_C
- sample solutions of deitel c book
+ sample solutions of deitel C/C++ book
